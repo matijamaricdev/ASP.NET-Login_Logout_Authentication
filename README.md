@@ -6,3 +6,7 @@ ASP.NET Authentication using Identity and providing Login and Logout functionali
 1. ASP.NET Core
 2. C# programming language
 3. Microsoft SQL Server
+
+### Created by
+
+-> Matija Marić

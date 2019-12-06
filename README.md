@@ -8,6 +8,4 @@ ASP.NET Authentication using Identity and providing Login and Logout functionali
 3. Microsoft SQL Server
 4. Entity Framework
 
-### Created by
-
--> Matija Marić
+### Created by Matija Marić
